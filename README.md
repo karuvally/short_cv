@@ -4,6 +4,7 @@
 
 ## Installation
 On a Debian based distribution, run the following commands  
+
     $ sudo apt-get install texlive texlive-formats-extra texlive-luatex
 
 ## Compiling
